@@ -3,10 +3,9 @@ from tkinter import messagebox
 
 # Initialize the candidates and vote counts
 candidates = {
-    "Bob": 0,
-    "Marry": 0,
-    "Sarrh": 0,
-    "John": 0
+   "candidate1":0,
+    "candidate2":0,
+    "candidate3":0
 }
 
 # Global variable for tracking voters left
