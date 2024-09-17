@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Initialize the candidates and vote counts
+# you can change the names of the candidates with the required one it can be changed 
 candidates = {
    "candidate1":0,
     "candidate2":0,
@@ -123,3 +124,4 @@ start_button.pack(pady=10)
 
 # Start Tkinter event loop
 root.mainloop()
+# Chrizz-coder
