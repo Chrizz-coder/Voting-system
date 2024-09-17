@@ -125,3 +125,4 @@ start_button.pack(pady=10)
 # Start Tkinter event loop
 root.mainloop()
 # Chrizz-coder
+#go run this code on IDE
