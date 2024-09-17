@@ -7,3 +7,5 @@ Candidate Voting: Voters can vote for one of the candidates, and votes are talli
 Invalid Input Handling: Ensures that only valid candidate names are accepted, showing an error message for invalid inputs.
 Result Display: Displays voting results, including the total votes for each candidate and the winner.
 Dynamic Voter Countdown: Tracks and displays the number of voters left to cast their vote.
+
+This is simple program to manage the voting system, it can be runed in compilers , it is completely python and can be used for voting purposes in schools,colleges,or some some companies.
